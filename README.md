@@ -26,7 +26,3 @@ A machine learning project to predict house prices using regression techniques. 
 - RMSE: **34,771.85**
 - R² Score: **0.85**
 
-## Future Improvements
-- Deploy as a Streamlit web app
-- Add more models and compare performance
-- Hyperparameter tuning for improved accuracy
